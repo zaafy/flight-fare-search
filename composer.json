@@ -1,0 +1,24 @@
+{
+    "name": "daniel/flight-fare-search",
+    "license": "GPL-2.0",
+    "description": "This plugin adds the FlightFareSearch functionality to WordPress pages. It allows to list a list of flights based on admin or user submitted criteria.",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Daniel Okoń",
+            "email": "dan.okon77@gmail.com"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "8.3.6"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "FlightFareSearch\\": "includes/",
+            "FlightFareSearch\\Admin\\": "admin/"
+        }
+    },
+    "require": {}
+}
