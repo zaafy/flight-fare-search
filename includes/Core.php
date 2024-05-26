@@ -72,7 +72,7 @@ class Core {
 	 */
 	public static function generate_frontend() {
 		$data_getter = new DataGetter();
-		$frontend_data = $data_getter->extract_data_for_frontend(); // Travactory: Remove this argument to use real data. Remember to fill URL in DataGetter->get_api_data();
+		$frontend_data = $data_getter->extract_data_for_frontend($mock = true); // Travactory: Remove this argument to use real data. Remember to fill URL in DataGetter->get_api_data();
 		if ($frontend_data) {
 			Renderer::render_frontend($frontend_data);
 		}
