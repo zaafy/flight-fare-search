@@ -1,0 +1,886 @@
+[
+  {
+    "agentId": 21,
+    "price": "EUR 221.08",
+    "localPrice": {
+      "amount": 221.08,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "IB"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-12"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-13",
+      "flightDuration": {
+        "outbound": "PT2H40M"
+      },
+      "inboundTransfersNumber": 0,
+      "outboundTransfersNumber": 0
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T10:18:22.297"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 226.08",
+    "localPrice": {
+      "amount": 226.08,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "UX"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-12"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-13",
+      "flightDuration": {
+        "outbound": "PT2H40M"
+      },
+      "inboundTransfersNumber": 0,
+      "outboundTransfersNumber": 0
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T10:18:22.297"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 226.44",
+    "localPrice": {
+      "amount": 226.44,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "VY"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-12"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-13",
+      "flightDuration": {
+        "outbound": "PT10H50M"
+      },
+      "inboundTransfersNumber": 1,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T10:18:22.297"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 245.32",
+    "localPrice": {
+      "amount": 245.32,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "TP"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-12"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-13",
+      "flightDuration": {
+        "outbound": "PT5H25M"
+      },
+      "inboundTransfersNumber": 1,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T10:18:22.297"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 249.72",
+    "localPrice": {
+      "amount": 249.72,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "KL"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-12"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-13",
+      "flightDuration": {
+        "outbound": "PT2H35M"
+      },
+      "inboundTransfersNumber": 0,
+      "outboundTransfersNumber": 0
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T10:18:22.297"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 265.22",
+    "localPrice": {
+      "amount": 265.22,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "SN"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-12"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-13",
+      "flightDuration": {
+        "outbound": "PT9H2M"
+      },
+      "inboundTransfersNumber": 0,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T10:18:22.297"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 323.82",
+    "localPrice": {
+      "amount": 323.82,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "AZ"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-12"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-13",
+      "flightDuration": {
+        "outbound": "PT6H4M"
+      },
+      "inboundTransfersNumber": 0,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T10:18:22.297"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 359.53",
+    "localPrice": {
+      "amount": 359.53,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "AF"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-12"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-13",
+      "flightDuration": {
+        "outbound": "PT7H25M"
+      },
+      "inboundTransfersNumber": 0,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T10:18:22.297"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 366.2",
+    "localPrice": {
+      "amount": 366.2,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "BA"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-12"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-13",
+      "flightDuration": {
+        "outbound": "PT5H55M"
+      },
+      "inboundTransfersNumber": 1,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T10:18:22.297"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 398.63",
+    "localPrice": {
+      "amount": 398.63,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "LH"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-12"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-13",
+      "flightDuration": {
+        "outbound": "PT4H55M"
+      },
+      "inboundTransfersNumber": 1,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T10:18:22.297"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 496.48",
+    "localPrice": {
+      "amount": 496.48,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "LX"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-12"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-13",
+      "flightDuration": {
+        "outbound": "PT13H20M"
+      },
+      "inboundTransfersNumber": 1,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T10:18:22.297"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 539.71",
+    "localPrice": {
+      "amount": 539.71,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "OS"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-12"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-13",
+      "flightDuration": {
+        "outbound": "PT7H40M"
+      },
+      "inboundTransfersNumber": 1,
+      "outboundTransfersNumber": 2
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T10:18:22.297"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 3008.38",
+    "localPrice": {
+      "amount": 3008.38,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "LO"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-12"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-13",
+      "flightDuration": {
+        "outbound": "PT7H35M"
+      },
+      "inboundTransfersNumber": 1,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T10:18:22.297"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 238.58",
+    "localPrice": {
+      "amount": 238.58,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "UX"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-14"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-16",
+      "flightDuration": {
+        "outbound": "PT2H40M"
+      },
+      "inboundTransfersNumber": 0,
+      "outboundTransfersNumber": 0
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T13:21:01.995"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 257.08",
+    "localPrice": {
+      "amount": 257.08,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "VY"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-14"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-16",
+      "flightDuration": {
+        "outbound": "PT13H20M"
+      },
+      "inboundTransfersNumber": 0,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T13:21:01.995"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 270.58",
+    "localPrice": {
+      "amount": 270.58,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "IB"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-14"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-16",
+      "flightDuration": {
+        "outbound": "PT2H40M"
+      },
+      "inboundTransfersNumber": 0,
+      "outboundTransfersNumber": 0
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T13:21:01.995"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 308.32",
+    "localPrice": {
+      "amount": 308.32,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "TP"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-14"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-16",
+      "flightDuration": {
+        "outbound": "PT5H40M"
+      },
+      "inboundTransfersNumber": 1,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T13:21:01.995"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 319.22",
+    "localPrice": {
+      "amount": 319.22,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "KL"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-14"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-16",
+      "flightDuration": {
+        "outbound": "PT2H35M"
+      },
+      "inboundTransfersNumber": 0,
+      "outboundTransfersNumber": 0
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T13:21:01.995"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 323.22",
+    "localPrice": {
+      "amount": 323.22,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "SN"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-14"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-16",
+      "flightDuration": {
+        "outbound": "PT9H2M"
+      },
+      "inboundTransfersNumber": 0,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T13:21:01.995"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 335.58",
+    "localPrice": {
+      "amount": 335.58,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "AF"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-14"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-16",
+      "flightDuration": {
+        "outbound": "PT4H45M"
+      },
+      "inboundTransfersNumber": 0,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T13:21:01.995"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 339.82",
+    "localPrice": {
+      "amount": 339.82,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "AZ"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-14"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-16",
+      "flightDuration": {
+        "outbound": "PT6H4M"
+      },
+      "inboundTransfersNumber": 0,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T13:21:01.995"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 517.03",
+    "localPrice": {
+      "amount": 517.03,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "LX"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-14"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-16",
+      "flightDuration": {
+        "outbound": "PT13H20M"
+      },
+      "inboundTransfersNumber": 1,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T13:21:01.995"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 523.3",
+    "localPrice": {
+      "amount": 523.3,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "LH"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-14"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-16",
+      "flightDuration": {
+        "outbound": "PT6H20M"
+      },
+      "inboundTransfersNumber": 1,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T13:21:01.995"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 531.46",
+    "localPrice": {
+      "amount": 531.46,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "A3"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-14"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-16",
+      "flightDuration": {
+        "outbound": "PT19H5M"
+      },
+      "inboundTransfersNumber": 1,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T13:21:01.995"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 572.7",
+    "localPrice": {
+      "amount": 572.7,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "BA"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-14"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-16",
+      "flightDuration": {
+        "outbound": "PT5H25M"
+      },
+      "inboundTransfersNumber": 1,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T13:21:01.995"
+  },
+  {
+    "agentId": 21,
+    "price": "EUR 3008.38",
+    "localPrice": {
+      "amount": 3008.38,
+      "currency": "EUR"
+    },
+    "flight": {
+      "airline": {
+        "code": "LO"
+      },
+      "departure": {
+        "code": "AMS",
+        "name": "Amsterdam Schiphol",
+        "date": "2024-06-14"
+      },
+      "destination": {
+        "code": "MAD",
+        "name": "Madrid",
+        "date": null
+      },
+      "returnDate": "2024-06-16",
+      "flightDuration": {
+        "outbound": "PT7H35M"
+      },
+      "inboundTransfersNumber": 1,
+      "outboundTransfersNumber": 1
+    },
+    "routeCriteria": {
+      "departureCode": "AMS",
+      "destinationCode": "MAD"
+    },
+    "createdAt": "2024-04-16T13:21:01.995"
+  }
+]
